@@ -1,4 +1,4 @@
-baseurl = "https://yjc801.github.io"
+baseurl = "https://junchaoyan.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
